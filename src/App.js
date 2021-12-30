@@ -58,7 +58,7 @@ class App extends React.PureComponent {
   }
 
   hotSaleFilter = (value, min, max) => {
-    getData().then(data=>{
+    getData().then(data=>{ 
       this.setState({allGoods: searchHotSale(filterMinMax(data, min, max), value)});
     });
   }
