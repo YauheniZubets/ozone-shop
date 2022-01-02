@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ozone-shop/static/css/main.38ecb904.css",
+    "main.js": "/ozone-shop/static/js/main.8810271a.js",
+    "static/js/787.cfd8f164.chunk.js": "/ozone-shop/static/js/787.cfd8f164.chunk.js",
+    "static/media/GT-Eesti-Pro-Text-Bold.OTF": "/ozone-shop/static/media/GT-Eesti-Pro-Text-Bold.82e3f9837824f8531dd9.OTF",
+    "static/media/GT-Eesti-Pro-Text-Regular.OTF": "/ozone-shop/static/media/GT-Eesti-Pro-Text-Regular.bc349a69d88bfe0c446a.OTF",
+    "index.html": "/ozone-shop/index.html",
+    "main.38ecb904.css.map": "/ozone-shop/static/css/main.38ecb904.css.map",
+    "main.8810271a.js.map": "/ozone-shop/static/js/main.8810271a.js.map",
+    "787.cfd8f164.chunk.js.map": "/ozone-shop/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ecb904.css",
+    "static/js/main.8810271a.js"
+  ]
+}
