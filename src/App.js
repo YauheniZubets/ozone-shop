@@ -12,9 +12,6 @@ import searchFilter from './search';
 import filterCategory from './filterCategory';
 
 class App extends React.PureComponent {
-  constructor() {
-    super();
-  }
 
   state= {
     showCart: false,

@@ -1,6 +1,4 @@
 import React from 'react';
-import getData from '../getData';
-import './header.css';
 
 class Header extends React.PureComponent {
 
